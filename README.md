@@ -7,7 +7,8 @@ O objetivo é registrar minha evolução ao longo do tempo, testando conceitos f
 ## 🚀 Linguagens Estudadas  
 - Java ☕  
 - PHP 🐘  
-- JavaScript  
+- JavaScript
+- React
 
 ## 🎯 Conteúdo  
 - Exercícios práticos  
